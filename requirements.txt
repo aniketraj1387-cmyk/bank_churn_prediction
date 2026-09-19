@@ -1,7 +1,7 @@
-pandas
-scikit-learn
-xgboost
-imbalanced-learn
-matplotlib
-seaborn
-jupyter
+pandas==3.0.6
+scikit-learn==1.9.1
+xgboost==3.4.1
+imbalanced-learn==0.14.2
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter==1.1.1
