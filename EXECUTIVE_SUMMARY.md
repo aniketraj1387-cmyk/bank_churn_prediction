@@ -11,7 +11,8 @@ they held 91k EUR on average against 73k for customers who stayed.
 ## Where the losses concentrate
 
 - **Inactive customers aged 50+ with money in their accounts.** 356 customers,
-  84% churn, 120k EUR average balance, about 40M EUR at risk. The single
+  84% churn, 120k EUR average balance, about 40M EUR in balances at risk.
+  These are deposits that walk, not revenue, but they are the single
   densest pocket of avoidable loss.
 - **Germany.** 32% churn versus 16% in France and Spain. Even active German
   customers churn above the whole-book average, so this is a product or
@@ -45,4 +46,4 @@ the weakest one (the 30% save rate) with evidence.
    marketing problem.
 4. After the first experiment reads out, test cross-selling a second product
    to funded single-product customers, the largest at-risk pool (2,048
-   customers, 138M EUR at risk).
+   customers, 138M EUR in balances at risk).
