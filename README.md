@@ -14,7 +14,7 @@ it costs, and what a retention team should do about it.
   customers** under stated cost assumptions (30 EUR offer, 250 EUR annual
   margin, 30% offer acceptance)
 - densest risk pocket: inactive customers 50+ with funded accounts. 356
-  people, 84% churn, 40M EUR at risk
+  people, 84% churn, 40M EUR in balances at risk
 
 The threshold comes from an explicit cost tradeoff, not from a default 0.5:
 
