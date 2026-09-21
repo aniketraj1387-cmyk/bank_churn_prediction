@@ -7,13 +7,13 @@ it costs, and what a retention team should do about it.
 ## Key results
 
 - 20.4% of 10,000 customers churned, taking 186M EUR in balances with them
-- xgboost model: **0.887 ROC AUC / 0.743 PR AUC** on a held-out test set
-- at the cost-optimal threshold it contacts 16% of the book at **73%
+- XGBoost model: **0.887 ROC AUC / 0.743 PR AUC** on a held-out test set
+  Aat the cost-optimal threshold it contacts 16% of the book at **73%
   precision and 57% recall**
-- expected net value of deploying: about **39k EUR per year per 10k
+- Expected net value of deploying: about **39k EUR per year per 10k
   customers** under stated cost assumptions (30 EUR offer, 250 EUR annual
   margin, 30% offer acceptance)
-- densest risk pocket: inactive customers 50+ with funded accounts. 356
+- Densest risk pocket: inactive customers 50+ with funded accounts. 356
   people, 84% churn, 40M EUR in balances at risk
 
 The threshold comes from an explicit cost tradeoff, not from a default 0.5:
